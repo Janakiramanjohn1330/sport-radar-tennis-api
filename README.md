@@ -1,1 +1,3 @@
 # sport-radar-tennis-api
+Hi Hello! 
+i get the nested json data in sports radar tennis api after that i use python to extract the data.And i create the dictionary format to insert the values. After that i give for loop to get the values.Then i import the pandas library to convert the data into the dataframe and i save the dataframe as csv file.After extract all the data i connected pymysql to create the table and insert the value into the table. After inserting the values i write the queries given in the project.Then i import streamlit library to create web application and also sql connection and  i create a python file to write the streamlit code.🎾🏅🏆
