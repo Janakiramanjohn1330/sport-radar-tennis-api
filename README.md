@@ -1,3 +1,43 @@
-# sport-radar-tennis-api
-Hi Hello! 
-i get the nested json data in sports radar tennis api after that i use python to extract the data.And i create the dictionary format to insert the values. After that i give for loop to get the values.Then i import the pandas library to convert the data into the dataframe and i save the dataframe as csv file.After extract all the data i connected pymysql to create the table and insert the value into the table. After inserting the values i write the queries given in the project.Then i import streamlit library to create web application and also sql connection and  i create a python file to write the streamlit code.🎾🏅🏆
+🎾 Game Analytics: Unlocking Tennis Data with SportRadar API
+
+📌 Project Overview
+
+This project leverages the SportRadar Tennis API to collect, manage, and analyze tennis competition data. The solution integrates Python, SQL, and Streamlit to build an end-to-end analytics pipeline — from API data extraction to interactive dashboards. It helps sports analysts, organizers, and fans explore tournaments, venues, and player rankings in a structured and insightful way.
+
+🚀 Features
+
+API Integration: Automated extraction of tennis data (competitions, venues, rankings) from SportRadar.
+Database Design: Normalized SQL schema for categories, competitions, complexes, venues, and competitors.
+Data Analysis: Predefined SQL queries for event trends, player performance, and country-wise insights.
+Interactive Dashboards (Streamlit):
+Competition hierarchy exploration
+Competitor search and ranking filters
+Country-wise analytics & leaderboards
+Summary statistics (total players, countries, points, etc.)
+
+🛠️ Tech Stack
+
+Languages: Python
+Database: MySQL 
+Framework: Streamlit
+API: Sportradar Tennis API
+
+📊 Sample Insights
+Distribution of events by type, gender, and competition level
+Top-ranked players and stable performers
+Venues grouped by country and timezone
+Parent vs. sub-competition hierarchies
+
+📂 Project Deliverables
+
+SQL Database – structured and populated with SportRadar data
+API Scripts – Python scripts for data extraction & transformation
+Streamlit App – interactive dashboard for analysis
+Documentation – workflow explanation, schema design, SQL queries
+
+✅ Skills Gained
+
+API data extraction and transformation
+SQL schema design and query writing
+Building dashboards with Streamlit
+Data storytelling with sports analytics
