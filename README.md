@@ -1,62 +1,54 @@
-API
-📌 Project Overview
+🎾 Tennis Data Analytics (SportRadar API)
+📌 Overview
 
-This project leverages the SportRadar Tennis API to collect, manage, and analyze tennis competition data. The solution integrates Python, SQL, and Streamlit to build an end-to-end analytics pipeline — from API data extraction to interactive dashboards. It helps sports analysts, organizers, and fans explore tournaments, venues, and player rankings in a structured and insightful way.
+This project leverages the SportRadar Tennis API to collect, manage, and analyze tennis competition data. Using Python, SQL, and Streamlit, it builds an end-to-end analytics pipeline — from API extraction to interactive dashboards. It helps analysts, organizers, and fans explore tournaments, venues, and player rankings.
 
 🚀 Features
 
-*API Integration: Automated extraction of tennis data (competitions, venues, rankings) from SportRadar.
+* API Integration – Automated tennis data extraction (competitions, venues, rankings).
 
-*Database Design: Normalized SQL schema for categories, competitions, complexes, venues, and competitors.
+* Database Design – Normalized SQL schema for categories, competitions, complexes, venues, competitors.
 
-*Data Analysis: Predefined SQL queries for event trends, player performance, and country-wise insights.
+* Data Analysis – SQL queries for event trends, player performance, and country insights.
 
-*Interactive Dashboards (Streamlit):
+* Streamlit Dashboards – Competitions, leaderboards, rankings, and country-wise stats.
 
-*Competition hierarchy exploration
+🛠 Tech Stack
 
-*Competitor search and ranking filters
+* Python
 
-*Country-wise analytics & leaderboards
+* SQL (MySQL / PostgreSQL)
 
-*Summary statistics (total players, countries, points, etc.)
+* Streamlit
 
-🛠️ Tech Stack
-
-*Languages: Python
-
-*Database: MySQL / PostgreSQL
-
-*Framework: Streamlit
-
-*API: Sportradar Tennis API
+* SportRadar Tennis API
 
 📊 Sample Insights
 
-*Distribution of events by type, gender, and competition level
+* Distribution of events by type, gender, and level.
 
-*Top-ranked players and stable performers
+* Top-ranked players & consistent performers.
 
-*Venues grouped by country and timezone
+* Venues grouped by country and timezone.
 
-*Parent vs. sub-competition hierarchies
+* Competition hierarchy (parent vs. sub-competitions).
 
-📂 Project Deliverables
+📂 Deliverables
 
-*SQL Database – structured and populated with SportRadar data
+* SQL Database with API-loaded data.
 
-*API Scripts – Python scripts for data extraction & transformation
+* API Scripts (Python for extraction & transformation).
 
-*Streamlit App – interactive dashboard for analysis
+* Streamlit Dashboard for analytics.
 
-*Documentation – workflow explanation, schema design, SQL queries
+* Documentation (schema design, SQL queries, workflow).
 
-✅ Skills Gained
+✅ Skills Learned
 
-*API data extraction and transformation
+* API Data Extraction & Transformation
 
-*SQL schema design and query writing
+* SQL Schema Design & Querying
 
-*Building dashboards with Streamlit
+* Dashboard Development (Streamlit)
 
-*Data storytelling with sports analytics
+* Sports Data Analytics & Storytelling
