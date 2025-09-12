@@ -5,58 +5,58 @@ This project leverages the SportRadar Tennis API to collect, manage, and analyze
 
 🚀 Features
 
-API Integration: Automated extraction of tennis data (competitions, venues, rankings) from SportRadar.
+*API Integration: Automated extraction of tennis data (competitions, venues, rankings) from SportRadar.
 
-Database Design: Normalized SQL schema for categories, competitions, complexes, venues, and competitors.
+*Database Design: Normalized SQL schema for categories, competitions, complexes, venues, and competitors.
 
-Data Analysis: Predefined SQL queries for event trends, player performance, and country-wise insights.
+*Data Analysis: Predefined SQL queries for event trends, player performance, and country-wise insights.
 
-Interactive Dashboards (Streamlit):
+*Interactive Dashboards (Streamlit):
 
-Competition hierarchy exploration
+*Competition hierarchy exploration
 
-Competitor search and ranking filters
+*Competitor search and ranking filters
 
-Country-wise analytics & leaderboards
+*Country-wise analytics & leaderboards
 
-Summary statistics (total players, countries, points, etc.)
+*Summary statistics (total players, countries, points, etc.)
 
 🛠️ Tech Stack
 
-Languages: Python
+*Languages: Python
 
-Database: MySQL / PostgreSQL
+*Database: MySQL / PostgreSQL
 
-Framework: Streamlit
+*Framework: Streamlit
 
-API: Sportradar Tennis API
+*API: Sportradar Tennis API
 
 📊 Sample Insights
 
-Distribution of events by type, gender, and competition level
+*Distribution of events by type, gender, and competition level
 
-Top-ranked players and stable performers
+*Top-ranked players and stable performers
 
-Venues grouped by country and timezone
+*Venues grouped by country and timezone
 
-Parent vs. sub-competition hierarchies
+*Parent vs. sub-competition hierarchies
 
 📂 Project Deliverables
 
-SQL Database – structured and populated with SportRadar data
+*SQL Database – structured and populated with SportRadar data
 
-API Scripts – Python scripts for data extraction & transformation
+*API Scripts – Python scripts for data extraction & transformation
 
-Streamlit App – interactive dashboard for analysis
+*Streamlit App – interactive dashboard for analysis
 
-Documentation – workflow explanation, schema design, SQL queries
+*Documentation – workflow explanation, schema design, SQL queries
 
 ✅ Skills Gained
 
-API data extraction and transformation
+*API data extraction and transformation
 
-SQL schema design and query writing
+*SQL schema design and query writing
 
-Building dashboards with Streamlit
+*Building dashboards with Streamlit
 
-Data storytelling with sports analytics
+*Data storytelling with sports analytics
